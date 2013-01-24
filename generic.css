@@ -15,15 +15,12 @@
 .borderTop {
 	border-top: 1px solid #333;
 }
-
 .borderBottom {
 	border-bottom: 1px solid #333;
 }
-
 .borderLeft {
 	border-left: 1px solid #333;
 }
-
 .borderRight {
 	border-right: 1px solid #333;
 }
@@ -143,4 +140,18 @@
 }
 .green {
 	color: #59E817;
+}
+
+/* =background */
+.blackBg {
+	background-color: #000;
+}
+.lightGreyBg {
+	background-color: #DDD;
+}
+.greyBg {
+	background-color: #999;
+}
+.darkGreyBg {
+	background-color: #333;
 }
