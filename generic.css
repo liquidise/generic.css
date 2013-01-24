@@ -142,6 +142,37 @@
 	color: #59E817;
 }
 
+/* =font */
+.bold {
+	font-weight: bold;
+}
+.italic {
+	font-style: italic;
+}
+.underline {
+	text-decoration: underline;
+}
+.uppercase {
+	text-transform: uppercase;
+}
+.lowercase {
+	text-transform: lowercase;
+}
+
+/* =font-size */
+.tinyText {
+	font-size: .7em;
+}
+.smallText {
+	font-size: .85em;
+}
+.bigText {
+	font-size: 1.2em;
+}
+.hugeText {
+	font-size: 1.5em;
+}
+
 /* =background */
 .blackBg {
 	background-color: #000;
