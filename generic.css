@@ -1,4 +1,4 @@
-/* -float */
+/* =float */
 .left {
 	float: left;
 }
@@ -202,4 +202,10 @@ html[xmlns] .clearFix {
 }
 .darkGreyBg {
 	background-color: #333;
+}
+.redBg {
+	background-color: #E41B17;
+}
+.greenBg {
+	background-color: #59E817;
 }
